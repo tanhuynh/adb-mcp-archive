@@ -1,3 +1,6 @@
+This is a copy of https://github.com/mikechambers/adb-mcp/
+I copy it here to make changes for my own usage
+
 # adb-mcp
 
 adb-mcp is a proof of concept project to enabled AI control of Adobe tools (Adobe Photoshop and Adobe Premiere) by providing an interface to LLMs via the MCP protocol.
