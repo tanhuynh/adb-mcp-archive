@@ -30,10 +30,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Render scratch (measurement PNGs; cleared after each image)
-measure/
-recipes/measure/
-
 # Python bytecode
 __pycache__/
 *.pyc

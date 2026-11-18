@@ -1,5 +1,5 @@
-This is a copy of https://github.com/mikechambers/adb-mcp/
-I copy it here to make changes for my own usage
+Fork of https://github.com/mikechambers/adb-mcp/ (remote `upstream`) with small local patches (`__main__` entry points in the MCP servers).
+The Photoshop editing workflow that uses it (agent rules, recipes, measurement tools) lives in https://github.com/tanhuynh/darkroom-agents.
 
 # adb-mcp
 
